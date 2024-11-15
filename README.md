@@ -1,32 +1,27 @@
-# 🌐 CVE Researcher & WordPress Explorer  
+# 🔍 CVE Researcher & WordPress Vulnerability Hunter  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=windz3r0day&color=brightgreen&style=for-the-badge)  
-![WordPress Badge](https://img.shields.io/badge/WordPress-Learning-blue?style=for-the-badge&logo=wordpress&logoColor=white)  
+![WordPress CVE Badge](https://img.shields.io/badge/WordPress--Vulnerabilities-red?style=for-the-badge&logo=wordpress&logoColor=white)  
 ![CVE Badge](https://img.shields.io/badge/CVE-Research-%23FF5733?style=for-the-badge&logo=security&logoColor=white)  
 
 ---
 
-## 🖐️ Welcome!  
+## 👨‍💻 About Me  
 
-Hi there! I'm a **CVE Researcher** passionate about cybersecurity and currently diving deep into **WordPress development and security**. My goal is to uncover vulnerabilities and contribute to a safer web while mastering the art of building and customizing WordPress sites.  
+Hello! I'm **windz3r0day**, a **CVE Researcher** with a passion for discovering and responsibly disclosing vulnerabilities in **WordPress** plugins, themes, and core components.  
 
----
+My mission is to identify critical flaws in WordPress and contribute to a safer digital ecosystem by ensuring vulnerabilities are addressed by the community.  
 
-## 🎯 Current Focus  
-
-- 🔍 **Vulnerability Research**: Exploring CVEs in plugins, themes, and WordPress core.  
-- 🌱 **WordPress Development**: Learning custom themes, plugins, and security best practices.  
-- 🛡️ **Enhancing Security**: Implementing secure coding practices for WordPress projects.  
+- 🔎 **Focus Areas**: Security research, vulnerability discovery, and CVE disclosures in WordPress.  
+- 🛠️ **Core Skills**: Penetration testing, fuzzing, reverse engineering.  
+- 🌍 **Mission**: Enhance security and protect websites worldwide through responsible vulnerability disclosure.
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🧰 Tools & Techniques  
 
-### 🔧 Tools I Use:  
-`Burp Suite` • `Ghidra` • `Radare2` • `Wireshark` • `WP-CLI`  
-
-### 💻 WordPress Stack:  
-`PHP` • `HTML/CSS` • `JavaScript` • `MySQL` • `REST API`  
+- 🔧 **Security Tools**: `Burp Suite`, `Wireshark`, `Ghidra`, `WPScan`.  
+- 🧪 **Techniques**: Fuzz testing, static analysis, dynamic analysis, reverse engineering.
 
 ---
 
@@ -41,11 +36,12 @@ Hi there! I'm a **CVE Researcher** passionate about cybersecurity and currently 
 
 ## ⚠️ Disclaimer  
 
-All research and content shared here are for **educational purposes** only. Misuse of this information is strongly discouraged.  
+All research and content are intended for **educational purposes** only. Any misuse of this information is strongly discouraged.  
 
 ---
 
-⭐️ **Feel free to explore my repositories and follow my journey into WordPress security and development!**  
+⭐️ **Feel free to explore my repositories, follow my journey, and join me in securing WordPress!**
+
 
 
 
