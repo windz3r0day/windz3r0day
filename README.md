@@ -24,7 +24,7 @@ My mission is to identify critical flaws in WordPress and contribute to a safer 
 | CVE ID          | Description                                   | Severity | PoC Available |
 |-----------------|-----------------------------------------------|----------|---------------|
 | `CVE-2024-10379`| XSS in WordPress Plugin wp-security-audit-log | High     | ✅            |
-|--------------------------------------------------------------------------------------------|
+
 
 
 I disclose vulnerabilities responsibly and provide a detailed analysis for each CVE discovered. For more detailed reports, check the official CVE database and my blog.
