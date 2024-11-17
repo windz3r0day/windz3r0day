@@ -15,13 +15,26 @@ My mission is to identify critical flaws in WordPress and contribute to a safer 
 - 🔎 **Focus Areas**: Security research, vulnerability discovery, and CVE disclosures in WordPress.  
 - 🛠️ **Core Skills**: Penetration testing, fuzzing, reverse engineering.  
 - 🌍 **Mission**: Enhance security and protect websites worldwide through responsible vulnerability disclosure.
+---
+
+## 🧩 CVE Research & Vulnerability Disclosure  
+
+### 🕵️‍♂️ Current CVEs:  
+
+| CVE ID          | Description                                   | Severity | PoC Available |
+|-----------------|-----------------------------------------------|----------|---------------|
+| `CVE-2024-10379`| XSS in WordPress Plugin wp-security-audit-log | High     | ✅            |
+|--------------------------------------------------------------------------------------------|
+
+
+I disclose vulnerabilities responsibly and provide a detailed analysis for each CVE discovered. For more detailed reports, check the official CVE database and my blog.
 
 ---
 
-## 🧰 Tools & Techniques  
+## 🛠️ Tools & Techniques  
 
-- 🔧 **Security Tools**: `Burp Suite`, `Wireshark`, `Ghidra`, `WPScan`.  
-- 🧪 **Techniques**: Fuzz testing, static analysis, dynamic analysis, reverse engineering.
+- 🔧 **Tools**: `Burp Suite`, `Wireshark`, `Ghidra`, `Fuzzing Tools`, `WPScan`.
+- 🧪 **Techniques**: Reverse engineering, fuzz testing, exploitation, static & dynamic analysis.
 
 ---
 
@@ -36,11 +49,12 @@ My mission is to identify critical flaws in WordPress and contribute to a safer 
 
 ## ⚠️ Disclaimer  
 
-All research and content are intended for **educational purposes** only. Any misuse of this information is strongly discouraged.  
+All content and research are shared for **ethical and educational purposes** only. Any misuse of this information for malicious purposes is strongly discouraged.  
 
 ---
 
-⭐️ **Feel free to explore my repositories, follow my journey, and join me in securing WordPress!**
+⭐️ **Feel free to explore my repositories, follow my work, and join me in making WordPress more secure!**  
+
 
 
 
