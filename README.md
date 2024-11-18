@@ -24,6 +24,8 @@ My mission is to identify critical flaws in WordPress and contribute to a safer 
 | CVE ID          | Description                                   | Severity | PoC Available |
 |-----------------|-----------------------------------------------|----------|---------------|
 | `CVE-2024-10793`| XSS in WordPress Plugin WP Activity Log       | High     | ✅            |
+| `CVE-2024-10015`| XSS in WordPress Plugin ConvertCalculator     | Medium   | ✅            |
+
 
 
 
