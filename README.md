@@ -42,6 +42,9 @@ I disclose vulnerabilities responsibly and provide a detailed analysis for each 
 
 ---
 
+## Donate 
+- **Monero(XMR)**: 4AYp8xqfLhdNzrrYMsrFDFGxgDVXaTJxGV63tg3CcVvajhQsHrdqAjXfsV42C3WfA6cifKMkrcYfXMUnbdKx8tceK54jqV7
+
 ## 📊 GitHub Stats  
 
 <div align="center">  
