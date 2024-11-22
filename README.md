@@ -26,6 +26,11 @@ My mission is to identify critical flaws in WordPress and contribute to a safer 
 | `CVE-2024-10793`| XSS in WordPress Plugin WP Activity Log       | High     | ✅            |
 | `CVE-2024-10015`| XSS in WordPress Plugin ConvertCalculator     | Medium   | ✅            |
 | `CVE-2024-10592`| XSS in WordPress Plugin The Mapster WP Maps   | Medium   | ✅            |
+| `CVE-2024-11381`| XSS in WordPress Plugin Control horas         | Medium   | ✅            |
+| `CVE-2024-11428`| XSS in WordPress Plugin Lazy load videos and sticky control | Medium   | ✅            |
+| `CVE-2024-11412`| XSS in WordPress Plugin Shine PDF Embeder     | Medium   | ✅            |
+| `CVE-2024-11388`| XSS in WordPress Plugin Dino Game             | Medium   | ✅            |
+| `CVE-2024-11432`| XSS in WordPress Plugin SuevaFree Essential   | Medium   | ✅            |
 
 
 
