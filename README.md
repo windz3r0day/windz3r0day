@@ -30,7 +30,7 @@ My mission is to identify critical flaws in WordPress and contribute to a safer 
 | `CVE-2024-11428`| XSS in WordPress Plugin Lazy load videos and sticky control | Medium   | ✅            |
 | `CVE-2024-11412`| XSS in WordPress Plugin Shine PDF Embeder     | Medium   | ✅            |
 | `CVE-2024-11388`| XSS in WordPress Plugin Dino Game             | Medium   | ✅            |
-| `CVE-2024-11432`| XSS in WordPress Plugin SuevaFree Essential   | Medium   | ✅            |
+| `CVE-2024-11432`| XSS in WordPress Plugin SuevaFree Essential Kit  | Medium   | ✅            |
 
 
 
