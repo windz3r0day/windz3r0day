@@ -32,6 +32,7 @@ My mission is to identify critical flaws in WordPress and contribute to a safer 
 | `CVE-2024-11388`| XSS in WordPress Plugin Dino Game             | Medium   | ✅            |
 | `CVE-2024-11432`| XSS in WordPress Plugin SuevaFree Essential Kit  | Medium   | ✅            |
 | `CVE-2024-11199`| XSS in WordPress Plugin Rescue Shortcodes     | Medium   | ✅            |
+| `CVE-2024-11387`| XSS in WordPress Plugin Easy Liveblogs        | Medium   | ✅            |
 
 
 
