@@ -1,8 +1,8 @@
 # 🧠 V8 & Chrome Exploitation Researcher  
 
-!Profile Views  
-!CVE Research Badge  
-!V8 Internals Badge  
+![Profile Views](https://komarev.com/ghpvc/?username=windz3r0day)  
+![V8 Internals Badge](https://img.shields.io/badge/V8-Internals-blue)  
+![CVE Research Badge](https://img.shields.io/badge/CVE-Research-red)
 
 ---
 
