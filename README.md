@@ -18,7 +18,6 @@ I continuously learn and improve my skills in low-level exploitation and vulnera
 
 Feel free to connect or collaborate on security research related to macOS and iOS.
 
----
 ## ☢️ Disclaimer  
 
 All research and proofs-of-concept are shared for academic and educational purposes only. Misuse of this information is prohibited and discouraged.
