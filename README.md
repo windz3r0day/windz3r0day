@@ -1,52 +1,24 @@
-# 🧠 V8 & Chrome Exploitation Researcher  
+# 🧠 macOS & iOS Security Researcher
 
 ![Profile Views](https://komarev.com/ghpvc/?username=windz3r0day&style=for-the-badge)
-![V8 Internals Badge](https://img.shields.io/badge/V8-Internals-blue?style=for-the-badge)
 ![CVE Research Badge](https://img.shields.io/badge/CVE-Research-red?style=for-the-badge)
 
 ---
+# About me
 
-## 👨‍💻 About Me  
+I am a passionate security researcher focusing on macOS and iOS platforms.
 
-Hi, I'm windz3r0day — a vulnerability researcher focused on browser exploitation, especially within the V8 JavaScript engine and Chromium.  
+My interests include:
+- Reverse engineering Apple system components
+- Exploring macOS/iOS internals and frameworks
+- Investigating vulnerabilities and developing proof-of-concepts
+- Studying XPC, Mach IPC, sandbox, and kernel security
 
-I specialize in discovering and analyzing memory corruption, type confusion, and JIT compiler flaws across different V8 versions.  
+I continuously learn and improve my skills in low-level exploitation and vulnerability research on Apple platforms.
 
-- ⚙️ Focus: V8 internals, Chrome sandbox, JIT abuse, ASAN/LSAN/UBSAN debugging.  
-- 📚 Skills: Reverse engineering, binary instrumentation, exploit development, fuzzing.  
-- 🧩 Goal: Contribute to securing modern browsers by responsibly disclosing high-impact vulnerabilities.  
-
----
-
-## 🧬 Key CVEs & Research  
-
-| CVE ID          | Component           | Type                 | Status     |
-|-----------------|---------------------|----------------------|------------|
-| CVE-2025-6554 | V8 (JIT)            | Memory Leak + TC     | ✅ 0day (Found pre-disclosure) |
-
-I analyze vulnerabilities using ASAN, LSAN, UBSAN, trace-opt/deopt, and internal V8 debugging tools.
+Feel free to connect or collaborate on security research related to macOS and iOS.
 
 ---
-
-## 🧪 Tools & Techniques  
-
-- 🧠 Debugging: d8, --trace-opt, --trace-deopt, --allow-natives-syntax, %DebugPrint(), %HeapObjectVerify().  
-- 🔬 Sanitizers: ASAN, LSAN, UBSAN  
-- 🧰 Tools: GDB, Frida, custom JIT shell harnesses  
-- 📦 Building: gclient, autoninja, gn gen, git checkout + sync pipelines  
-- 🛠️ PoC Strategy: JIT warm-up, object shape manipulation, speculative optimization abuse  
-
----
-
-## 💻 GitHub Stats  
-
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=windz3r0day&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windz3r0day&layout=compact&langs_count=7&theme=algolia"/>  
-</div>  
-
----
-
 ## ☢️ Disclaimer  
 
 All research and proofs-of-concept are shared for academic and educational purposes only. Misuse of this information is prohibited and discouraged.
